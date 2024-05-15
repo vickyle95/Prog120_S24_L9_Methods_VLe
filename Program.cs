@@ -113,6 +113,7 @@ namespace Prog120_S24_L9_Methods
                 }
 
                 Console.WriteLine(); // Blank line for readability
+
             }
         } // Main
 
@@ -136,4 +137,4 @@ namespace Prog120_S24_L9_Methods
 
     } // class
 
-} // namespace
+//} // namespace
